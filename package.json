@@ -1,0 +1,9 @@
+{
+  "name": "algo_tasks",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "new": "node scripts/new.ts"
+  }
+}
