@@ -56,6 +56,15 @@ npm scripts, zero dependencies:
 | `npm test` | runs every test (`node --test`) |
 | `npm run new -- <num> <slug> --topic … --difficulty … --sig "…"` | scaffolds the problem folder: signature stub, test skeleton, README with frontmatter |
 
+Running the tests of one problem (from the repo root):
+
+```bash
+node --test 0125-valid-palindrome/solution.test.ts                                   # one problem
+node --test 0125-valid-palindrome/                                                   # every test file in the folder (incl. review rounds)
+node --test --watch 0125-valid-palindrome/solution.test.ts                           # re-run on save
+node --test --test-name-pattern="example 2" 0125-valid-palindrome/solution.test.ts   # only tests whose name matches
+```
+
 Planned, not built yet:
 
 | script | does |
