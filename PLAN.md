@@ -11,18 +11,18 @@ E = Easy · M = Medium · H = Hard
 
 ## 1. String
 
-| # | problem | diff |
-|---|---------|------|
-| 13 | Roman to Integer | E |
-| 14 | Longest Common Prefix | E |
-| 125 | Valid Palindrome | E |
-| 242 | Valid Anagram | E |
-| 344 | Reverse String | E |
-| 387 | First Unique Character in a String | E |
-| 8 | String to Integer (atoi) | M |
-| 151 | Reverse Words in a String | M |
-| 5 | Longest Palindromic Substring | M |
-| 43 | Multiply Strings | M |
+| # | problem | diff | State |
+|---|---------|------|-------|
+| 13 | Roman to Integer | E | ✅ |
+| 14 | Longest Common Prefix | E | ✅ |
+| 125 | Valid Palindrome | E | ✅ |
+| 242 | Valid Anagram | E | ✅ |
+| 344 | Reverse String | E | ⬜ |
+| 387 | First Unique Character in a String | E | ⬜ |
+| 8 | String to Integer (atoi) | M | ⬜ |
+| 151 | Reverse Words in a String | M | ⬜ |
+| 5 | Longest Palindromic Substring | M | ⬜ |
+| 43 | Multiply Strings | M | ⬜ |
 
 ## 2. Array
 
