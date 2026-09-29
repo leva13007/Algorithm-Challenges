@@ -7,7 +7,7 @@ Topic order and problem shortlist. Static reference — progress lives in each p
 - Each problem appears once, in the topic where it is first introduced. Reviews bring everything back later.
 - Numbers, titles and difficulties were written from memory — verify on LeetCode before creating a folder.
 
-E = Easy · M = Medium · H = Hard
+E = Easy · M = Medium · H = Hard · State: ⬜ todo · 🟡 in progress · ✅ solved
 
 ## 1. String
 
@@ -17,8 +17,9 @@ E = Easy · M = Medium · H = Hard
 | 14 | Longest Common Prefix | E | ✅ |
 | 125 | Valid Palindrome | E | ✅ |
 | 242 | Valid Anagram | E | ✅ |
-| 344 | Reverse String | E | ⬜ |
-| 387 | First Unique Character in a String | E | ⬜ |
+| 344 | Reverse String | E | ✅ |
+| 20 | Valid Parentheses | E | ✅ |
+| 387 | First Unique Character in a String | E | ✅ |
 | 8 | String to Integer (atoi) | M | ⬜ |
 | 151 | Reverse Words in a String | M | ⬜ |
 | 5 | Longest Palindromic Substring | M | ⬜ |
